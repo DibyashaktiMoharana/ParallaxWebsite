@@ -54,6 +54,13 @@ header ul li a {
   font-size: 0.83rem;
 }
 
+header ul li a:hover{
+  color: #FF3131;
+  transition: 0.3s;
+  font-weight: 600;
+  
+}
+
 .search a {
   font-size: 2.5rem;
   padding: 0 3rem;
